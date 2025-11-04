@@ -32,7 +32,7 @@ This GUI-based system replaces traditional paper-based management and provides a
 
 ---
 
-## 🗂️ Project Structure
+
 
 
 ---
